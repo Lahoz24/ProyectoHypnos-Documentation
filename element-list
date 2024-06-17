@@ -1,0 +1,17 @@
+com.hypnos.Hypnos
+com.hypnos.Hypnos.auth
+com.hypnos.Hypnos.config
+com.hypnos.Hypnos.controllers
+com.hypnos.Hypnos.dtos.category
+com.hypnos.Hypnos.dtos.comment
+com.hypnos.Hypnos.dtos.like
+com.hypnos.Hypnos.dtos.publication
+com.hypnos.Hypnos.dtos.user
+com.hypnos.Hypnos.mappers
+com.hypnos.Hypnos.models
+com.hypnos.Hypnos.repositories
+com.hypnos.Hypnos.services.category
+com.hypnos.Hypnos.services.comment
+com.hypnos.Hypnos.services.faker
+com.hypnos.Hypnos.services.publication
+com.hypnos.Hypnos.services.user
